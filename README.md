@@ -1,6 +1,6 @@
 # Walnut - A Web Application for Efficient Course Searching
 
-Checkout [Walnut](https://walnut-uoft.herokuapp.com/)!
+Checkout [Walnut](https://walnut-utoronto.onrender.com/)!
 
 ## Fun Fact
 
